@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org).
 
+## [v1.6.0](https://github.com/puppetlabs/puppetlabs-vsphere/tree/v1.6.0) (2020-12-16)
+
+[Full Changelog](https://github.com/puppetlabs/puppetlabs-vsphere/compare/v1.5.0...v1.6.0)
+
+### Added
+
+- pdksync - \(feat\) - Add support for Puppet7 [\#197](https://github.com/puppetlabs/puppetlabs-vsphere/pull/197) ([daianamezdrea](https://github.com/daianamezdrea))
+- pdksync - \(IAC-973\) - Update travis/appveyor to run on new default branch `main` [\#187](https://github.com/puppetlabs/puppetlabs-vsphere/pull/187) ([david22swan](https://github.com/david22swan))
+
+### Fixed
+
+- Update REFERENCE.md [\#196](https://github.com/puppetlabs/puppetlabs-vsphere/pull/196) ([ola-pt](https://github.com/ola-pt))
+
 ## [v1.5.0](https://github.com/puppetlabs/puppetlabs-vsphere/tree/v1.5.0) (2020-06-25)
 
 [Full Changelog](https://github.com/puppetlabs/puppetlabs-vsphere/compare/v1.4.0...v1.5.0)
